@@ -1,1 +1,8 @@
 
+2.2.9 Cracking Times
+
+Carrying out brute-force attacks involves the attacker trying several possible combinations
+usually involve a word-list file:a text file containing a list of words
+programs such as Ophcrack, L0phtCrack, THC Hydra, RainbowCrack or Medusa
+ brute-force attacks take time, complex passwords take much longer to guess.
+---
