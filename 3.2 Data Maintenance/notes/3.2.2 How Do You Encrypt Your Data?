@@ -1,0 +1,11 @@
+Software programs are used to encrypt files, folders and even entire drives.
+
+Encrypting File System (EFS) is a Windows feature that can encrypt data
+directly linked to a specific user account and only the user that encrypts the data will be able to access it
+
+STEPS IN HOW TO ENCRYPT DATA USING EFS
+SELECT FOLDER
+RIGHT CLICK-PROPERTIES
+CLICK ADVANCED
+SELECT ENCRYPT CONTENTS TO SECURE DATA 
+FILES AND FOLDERS THAT HAVE BEEN ENCRYPTED WITH EFS ARE DISPLAYED IN GREEN 
