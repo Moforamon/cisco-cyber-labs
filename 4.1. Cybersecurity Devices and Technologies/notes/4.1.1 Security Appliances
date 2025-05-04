@@ -1,0 +1,21 @@
+4.1.1 Security Appliances
+
+Security appliances can be standalone devices like a router or software tools that are run on a network device. They fall into six general categories.
+
+1:Routers
+Used to interconnect various network segments. Basic traffic filtering. Information can help define which computers from a given net work segment can communicate with which nerwork segments 
+
+2:Firewalls
+Can look deeper into the network traffic itsslef. Identify malicous behavior .Can have sophisticated security policies 
+
+3:Intrusion prevention systems
+IPS systems use a set of traffic signatures that match and block malicious trafffic/attacks
+
+Virtual private networks.
+VPNS BB lets remote access with a secure encrypted tunnel from their mobile computer and securely connect back to the organizations network 
+
+Antimalware or anitvirus
+These systems use signatures or behavioral analysis of applications to identify and block malicous code from being executed 
+
+Other Security devices
+Other security device s  includ web/email secuirty appllicanes, decryption devices , client accesscontrol servers and secuirty management systems 
